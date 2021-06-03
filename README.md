@@ -11,8 +11,9 @@ learned and with this skill to solve the problems.</p>
 <h3 align="center" >I’m an intern at</h1>
 <h2>Solid ICT</h2>
 <br/>
-![alt Solid ICT](https://github.com/Hikmet-Qedirov/Hikmet-Qedirov/blob/main/Solid_ICT.png)
-[<img align="center" width="100%" src="https://github.com/Hikmet-Qedirov/Hikmet-Qedirov/blob/main/Solid_ICT.png" >](https://www.solidict.com/)
+<img align="center" width="100%" src="https://github.com/Hikmet-Qedirov/Hikmet-Qedirov/blob/main/Solid_ICT.png" >
+<a href='https://www.solidict.com/'/>
+</img>
 <br/>
 <br/>
 <h3 align="center" >I’m currently working on</h1>
