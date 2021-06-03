@@ -12,15 +12,16 @@ learned and with this skill to solve the problems.</p>
 <h2>Solid ICT</h2>
 <br/>
 <a href='https://www.solidict.com/'>
-<img align="center" width="100%" src="https://github.com/Hikmet-Qedirov/Hikmet-Qedirov/blob/main/Solid_ICT.png">
-  </a>
+  <img align="center" width="100%" src="https://github.com/Hikmet-Qedirov/Hikmet-Qedirov/blob/main/Solid_ICT.png">
+</a>
 <br/>
 <br/>
 <h3 align="center" >I’m currently working on</h1>
 <h2>Yup Technology</h2>
 <br/>
-[<img align="center" alt='Yup Technology' width="100%" src="https://github.com/Hikmet-Qedirov/Hikmet-Qedirov/blob/main/Yup-Technology.png">](https://www.yuptechnology.com/)
-
+<a href='https://www.yuptechnology.com/'>
+  <img align="center" alt='Yup Technology' width="100%" src="https://github.com/Hikmet-Qedirov/Hikmet-Qedirov/blob/main/Yup-Technology.png">
+</a>
 <br/>
 <br/>
 <br/>
