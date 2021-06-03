@@ -8,7 +8,14 @@ learned and with this skill to solve the problems.</p>
 <br/>
 <br/>
 <br/>
-<h3 align="center" >I’m currently working on <h2>Yup Technology</h2></h1>
+<h3 align="center" >I’m an intern at</h1>
+<h2>Solid ICT</h2>
+<br/>
+<img align="center" width="100%" src="https://github.com/Hikmet-Qedirov/Hikmet-Qedirov/blob/main/Solid_ICT.png" />
+<br/>
+<br/>
+<h3 align="center" >I’m currently working on</h1>
+<h2>Yup Technology</h2>
 <br/>
 <img align="center" width="100%" src="https://github.com/Hikmet-Qedirov/Hikmet-Qedirov/blob/main/Yup-Technology.png" />
 
