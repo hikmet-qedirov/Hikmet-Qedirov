@@ -17,7 +17,7 @@ learned and with this skill to solve the problems.</p>
 <h3 align="center" >I’m currently working on</h1>
 <h2>Yup Technology</h2>
 <br/>
-<img align="center" width="100%" src="https://github.com/Hikmet-Qedirov/Hikmet-Qedirov/blob/main/Yup-Technology.png" />
+[<img align="center" width="100%" src="https://github.com/Hikmet-Qedirov/Hikmet-Qedirov/blob/main/Yup-Technology.png" />](https://www.yuptechnology.com/)
 
 <br/>
 <br/>
