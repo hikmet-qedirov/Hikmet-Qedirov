@@ -28,8 +28,8 @@ learned and with this skill to solve the problems.</p>
 <br/>
 <br/>
 <br/>
-<img align="left" width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Hikmet-Qedirov" >
-<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=Hikmet-Qedirov&show_icons=true" >
+<img align="left" width="40%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Hikmet-Qedirov" >
+<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=Hikmet-Qedirov&show_icons=true" >
 </div>
 
 
