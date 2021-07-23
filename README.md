@@ -16,7 +16,7 @@ learned and with this skill to solve the problems.</p>
 </a>
 <br/>
 <br/>
-<h3 align="center" >I’m currently working on</h1>
+<h3 align="center" >I had worked</h1>
 <h2>Yup Technology</h2>
 <br/>
 <a href='https://www.yuptechnology.com/'>
