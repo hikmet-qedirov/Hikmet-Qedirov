@@ -26,6 +26,7 @@ learned and with this skill to solve the problems.</p>
 <br/>
 <br/>
 <h2>Contact</h2>
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Hikmet-Qedirov)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hikmet-qedirov/)
 <br/>
 <br/>
