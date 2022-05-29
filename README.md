@@ -8,7 +8,15 @@ learned and with this skill to solve the problems.</p>
 <br/>
 <br/>
 <br/>
-<h3 align="center" >I’m an intern at</h1>
+<h3 align="center" >I'm currently work at</h1>
+<h2>Solid ICT</h2>
+<br/>
+<a href='https://www.solidict.com/'>
+  <img align="center" width="100%" src="https://github.com/Hikmet-Qedirov/Hikmet-Qedirov/blob/main/Solid_ICT.png">
+</a>
+<br/>
+<br/>
+<h3 align="center" >I’m was intern at</h1>
 <h2>Solid ICT</h2>
 <br/>
 <a href='https://www.solidict.com/'>
